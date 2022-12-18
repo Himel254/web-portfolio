@@ -13,6 +13,7 @@ p{
 }
 section{
     height: 300px;
+    border-collapse: separate;
 }
 .half-width{
     float: left;
